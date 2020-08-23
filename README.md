@@ -1,24 +1,38 @@
 
-# Manny Lou
+# Test
 
 # Table of Content
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
+- [License](#license)
 - [Contribution](#contribution)
+- [Tests](#tests)
+- [Email Address](#email)
+- [Username](#username)
+
 
 
 ## Description:
-    Test 
+    Test
 
 ## Installation:
     None
 
 ## Usage:
-    To Inform
+    Test
+    
+## License
+    None    
     
 ## Contribution:
     Manny
 
+## Tests
+    Test
 
-# Good-README-Generator
+## Email Address
+    mavkio1@gmail.com
+
+## GitHub Username
+    MannyLouHub

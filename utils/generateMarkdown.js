@@ -7,7 +7,12 @@ function generateMarkdown(response) {
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
+- [License](#license)
 - [Contribution](#contribution)
+- [Tests](#tests)
+- [Email Address](#email)
+- [Username](#username)
+
 
 
 ## Description:
@@ -19,10 +24,20 @@ function generateMarkdown(response) {
 ## Usage:
     ${response.usage}
     
+## License
+    ${response.license}    
+    
 ## Contribution:
     ${response.contribution}
 
+## Tests
+    ${response.tests}
 
+## Email Address
+    ${response.email}
+
+## GitHub Username
+    ${response.username}
 `;
 }
 

@@ -21,9 +21,25 @@ const questions = [
     name: 'usage',
   },
   {
+    message: 'What licenses are required with this project',
+    name: 'license',
+  },
+  {
     message: "Who were the contributors to this project?",
     name: "contribution",
   },
+  {
+    message: "What is the test process for this project?",
+    name: "tests",
+  },
+  {
+    message: "What is the user github email address?",
+    name: "email"
+  },
+  {
+    message: "Please provide a github username",
+    name: "username"
+  }
 ];
 
 // function to initialize program
@@ -37,7 +53,7 @@ function init() {
       .catch((err) => {
         console.log(err);
       })
-  }
+}
 
 // function call to initialize program
 
