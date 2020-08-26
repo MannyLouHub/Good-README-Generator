@@ -31,10 +31,10 @@
     Manny
 
 ## Tests
-    None
+None
 
 ## Email Address
-    mavkio1@gmail.com
+mavkio1@gmail.com
 
 ## GitHub Username
-    My Github is [MannyLouHub](https://github.com/MannyLouHub)
+My Github is [MannyLouHub](https://github.com/MannyLouHub)
