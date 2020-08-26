@@ -1,5 +1,7 @@
 
-# Test
+# **[Manny](https://github.com/MannyLouHub/Manny)**
+
+
 
 # Table of Content
 - [Description](#description)
@@ -14,25 +16,25 @@
 
 
 ## Description:
-    Test
+    Manny
 
 ## Installation:
     None
 
 ## Usage:
-    Test
+    None
     
 ## License
-    None    
+    Test
     
 ## Contribution:
     Manny
 
 ## Tests
-    Test
+    None
 
 ## Email Address
     mavkio1@gmail.com
 
 ## GitHub Username
-    MannyLouHub
+    My Github is [MannyLouHub](https://github.com/MannyLouHub)

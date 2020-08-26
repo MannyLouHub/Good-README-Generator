@@ -51,7 +51,7 @@ function init() {
         fs.writeFileSync('README.md', markdown(response));
       })
       .catch((err) => {
-        console.log(err);
+        console.log(err);M
       })
 }
 

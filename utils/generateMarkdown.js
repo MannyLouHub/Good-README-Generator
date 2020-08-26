@@ -1,7 +1,9 @@
 // function to generate markdown for README
 function generateMarkdown(response) {
   return `
-# ${response.title}
+# **[${response.title}](https://github.com/${response.username}/${response.title})**
+
+
 
 # Table of Content
 - [Description](#description)
@@ -25,7 +27,7 @@ function generateMarkdown(response) {
     ${response.usage}
     
 ## License
-    ${response.license}    
+    ${response.license}
     
 ## Contribution:
     ${response.contribution}
@@ -37,7 +39,7 @@ function generateMarkdown(response) {
     ${response.email}
 
 ## GitHub Username
-    ${response.username}
+    My Github is [${response.username}](https://github.com/${response.username})
 `;
 }
 
