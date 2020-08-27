@@ -1,7 +1,7 @@
 
-# **[Manny](https://github.com/MannyLouHub/Manny)**
+# [ReadME-Project](https://github.com/MannyLouHub/ReadME-Project)
 
-
+![gif of example](./utils/example.gif);
 
 # Table of Content
 - [Description](#description)
@@ -16,19 +16,19 @@
 
 
 ## Description:
-    Manny
+This project was to create a readme generator
 
 ## Installation:
-    None
+run the index.js file
 
 ## Usage:
-    None
+to create a good readme
     
 ## License
-    Test
+None
     
 ## Contribution:
-    Manny
+Manny
 
 ## Tests
 None
